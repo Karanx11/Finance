@@ -1,5 +1,8 @@
 # 💰 Finance Dashboard UI
 
+A clean and interactive **Finance Dashboard** built using **React + Tailwind CSS**.
+This project allows users to track financial activity, visualize spending patterns, and manage transactions with a simple and responsive interface.
+
 ## 📸 Screenshots
 
 ### Dashboard
@@ -13,9 +16,6 @@
 ### Transactions
 
 ![Transactions](./finance-dashboard/public/transactions.png)
-
-A clean and interactive **Finance Dashboard** built using **React + Tailwind CSS**.
-This project allows users to track financial activity, visualize spending patterns, and manage transactions with a simple and responsive interface.
 
 ---
 
